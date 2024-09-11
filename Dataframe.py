@@ -1,6 +1,5 @@
 import pandas as pd
 
-# Importando o arquivo CSV 
 vendas_frutas_imported = pd.read_csv('vendas_frutas.csv')
 
 # 1. Verificando o tipo de dados de cada coluna
